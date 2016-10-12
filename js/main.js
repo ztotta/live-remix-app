@@ -91,7 +91,7 @@ function launchClips() {
     kit.play();
 };
 
-//$('#bass_volumeDown').click(function(){
+//$('#bass_volumeDown').click(function(){ 
 ////    bass.volume = bass.volume - 0.1;
 //    bass.setVolume(0.5);
 //    console.log('bass vol - clicked');
