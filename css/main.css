@@ -1,0 +1,74 @@
+ 
+#bass_player {
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 3px;
+    position: relative;
+}
+
+#bass_analyser_render {
+    position: absolute;
+    background-color: cornsilk;
+    border: 3px solid;
+    border-radius: 10px; 
+    width: 100px; 
+    height: 100px;
+    top: 290px;
+    left: 150px;
+}
+
+#bass_knob_panel {
+    height: 200px;
+    width: 200px;
+    background-color: cornsilk;
+    border: 3px solid;
+    border-radius: 10px;
+    position: relative;
+}
+
+#bass_knob_panel > div {
+    height: 50px;
+    width: 50px;
+    background-color: aquamarine;
+    border: 3px solid;
+    border-radius: 10px;
+    position: absolute;
+}
+
+#bass_volume {
+    top: 5px;
+    left: 5px;
+}
+
+#bass_volumeDown{
+    top: 5px;
+    left: 65px;
+}
+
+#bass_volumeUp {
+    top: 5px;
+    left: 139px;
+}
+
+/**/
+
+#bass_panning {
+    top: 75px;
+    left: 5px;
+}
+
+#bass_panningL {
+    top: 75px;
+    left: 65px;
+}
+
+#bass_panningR {
+    top: 75px;
+    left: 135px;
+}
+        
+
+
